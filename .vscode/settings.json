@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "files.associations": {
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "xutility": "cpp"
+    }
+}
